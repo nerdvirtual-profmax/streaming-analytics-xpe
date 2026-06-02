@@ -57,8 +57,8 @@ Objetivo final: Entregar um dataset limpo, padronizado e pronto para análise em
 - Analisar o processamento realizado
 - Verificar os resultados gerados
 - Produzir um relatório detalhado contendo:
--    Os procedimentos realizados,
--    Os resultados obtidos exemplicando a comparação entre o antes e depois do processamento realizado pelo agente IA.
+--   Os procedimentos realizados,
+--   Os resultados obtidos exemplicando a comparação entre o antes e depois do processamento realizado pelo agente IA.
   
 - Postar o relatório no formato **PDF** no Portal LMS Canvas.
 - Salvar os arquivos em seu computador para serem utilizados em nosso prócimo encontro em 15/10/2016 no qual iremos construir o dashboard utilizando o Power Bi.
