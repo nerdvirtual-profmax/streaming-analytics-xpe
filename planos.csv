@@ -1,0 +1,7 @@
+id_plano,nome_plano,preco_mensal,qualidade,simultaneas
+1,Basico,19.9,SD,1
+2,Básico,19.90,sd,1
+3,Standard,29.9,HD,2
+4,standart,30,hd,2
+5,Premium,39.9,4K,4
+6,premiun,40,4k,4
