@@ -13,10 +13,15 @@ O objetivo é transformar os datasets sujos em arquivos consistentes, confiávei
 - Gerar arquivos finais consistentes para uso no Power BI  
 - Documentar o processo de transformação  
 
-Abaixo a lista dos arquivos sujos no formato .csv. Estes arquivos 
-- clientes.csv  
-- planos.csv  
-- assinaturas.csv  
-- pagamentos.csv  
-- catalogo.csv  
-- consumo.csv  
+Abaixo a lista dos arquivos sujos no formato .csv. Clique sobre o arquivo para realizar o download.
+### 📥 Download dos Dados Sujos
+
+[📥 Baixar clientes.csv](https://raw.githubusercontent.com/SEU_USUARIO/SEU_REPOSITORIO/main/dados/sujos/clientes.csv)
+
+
+- [clientes.csv](../dados/sujos/clientes.csv)
+- [planos.csv](../dados/sujos/planos.csv)
+- [assinaturas.csv](../dados/sujos/assinaturas.csv)
+- [pagamentos.csv](../dados/sujos/pagamentos.csv)
+- [catalogo.csv](../dados/sujos/catalogo.csv)
+- [consumo.csv](../dados/sujos/consumo.csv)
