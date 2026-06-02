@@ -16,7 +16,7 @@ O objetivo é transformar os datasets sujos em arquivos consistentes, confiávei
 Abaixo a lista dos arquivos sujos no formato .csv. Clique sobre o arquivo para realizar o download.
 ### 📥 Download dos Dados Sujos
 
-[📥 Baixar clientes.csv](https://raw.githubusercontent.com/SEU_USUARIO/SEU_REPOSITORIO/main/dados/sujos/clientes.csv)
+[📥 Baixar clientes.csv](clientes.csv)
 
 
 - [clientes.csv](../dados/sujos/clientes.csv)
