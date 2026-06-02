@@ -1,0 +1,11 @@
+id_conteudo,titulo,tipo,categoria,duracao_min
+9001,Planeta Azul,serie,documentario,45
+9002,planeta azul,Série,Documentário,45,duplicado
+9003,Guardiões do Tempo,filme,acao,120
+9004,Guardiões do tempo,Filme,Ação,120
+9005,Amor em Paris,filme,romance,110
+9006,Amor em paris,Filme,Romance,110
+9007,Cozinha Master,serie,culinaria,30
+9008,Cozinha master,Série,Culinária,30
+9009,Velocidade Máxima,filme,acao,130
+9010,velocidade maxima,Filme,Ação,130
