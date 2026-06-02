@@ -18,5 +18,33 @@ O objetivo é ensinar o aluno a usar IA para preparar dados e, em seguida, const
 
 ---
 
-# 🗂️ Estrutura do Repositório
+# Estrutura do Repositório
+
+streaming-analytics/
+│
+├── dados/
+│   ├── sujos/
+│   │   ├── clientes.csv
+│   │   ├── planos.csv
+│   │   ├── assinaturas.csv
+│   │   ├── pagamentos.csv
+│   │   ├── catalogo.csv
+│   │   └── consumo.csv
+│   │
+│   └── limpos/
+│       ├── clientes_limpo.csv
+│       ├── planos_limpo.csv
+│       ├── assinaturas_limpo.csv
+│       ├── pagamentos_limpo.csv
+│       ├── catalogo_limpo.csv
+│       └── consumo_limpo.csv
+│
+├── roteiro/
+│   ├── aula1_limpeza_agente.md
+│   ├── aula2_dashboard_powerbi.md
+│   └── dicionario_de_dados.md
+│
+├── imagens/   (opcional)
+│
+└── README.md
 
