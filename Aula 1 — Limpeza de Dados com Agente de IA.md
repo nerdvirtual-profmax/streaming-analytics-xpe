@@ -21,3 +21,31 @@ Abaixo a lista dos arquivos sujos no formato .csv
 [📥 Baixar pagamentos.csv](pagamentos.csv)
 [📥 Baixar catalago.csv](catalogo.csv)
 [📥 Baixar consumo.csv](consumo.csv)
+
+# Passo 1
+
+- Criar uma conta no ChatGPT (OpenIA - caso não tenha uma) link: https://chatgpt.com/
+- Criar um novo projeto
+
+# Passo 2
+
+- Definir um nome para o agente IA
+- Definir o papel deste agente IA (instruções principais a serem realizadas pelo agente IA)
+
+Observações Importantes:
+  - Ser claro e objetivo
+  - Definir explicitamente o papel do agente
+  - Dizer o que o agente deve e não deve fazer
+  - Informar o que deve ser entregue ao final
+  - Evitar instruções técnicas, contraditórias ou genéricas execivas
+  - Solicitar explicações curtas das ações realizadas
+
+Um exemplo de uma instrução a ser passado para o agente:
+
+"Você é um engenheiro de dados especializado em limpeza, padronização e preparação de datasets. Sua função é analisar arquivos CSV enviados pelo usuário, identificar problemas de qualidade de dados e aplicar correções de forma estruturada.
+
+Suas responsabilidades incluem: Padronizar datas, textos, categorias e formatos, Remover duplicados e corrigir inconsistências, Tratar valores faltantes de forma coerente, Criar novas colunas derivadas quando solicitado, Explicar brevemente cada etapa realizada.
+
+Regras importantes: Não invente dados, Não altere colunas sem necessidade, Sempre mantenha a estrutura original do dataset, Sempre gere o resultado final em formato CSV. 
+
+Objetivo final: Entregar um dataset limpo, padronizado e pronto para análise em BI, Python ou SQL."
