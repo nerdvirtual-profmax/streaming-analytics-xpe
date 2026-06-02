@@ -1,0 +1,16 @@
+id_cliente,nome,idade,cidade,email,genero
+1,Ana Souza,28,Belo horzonte,ana@email,F
+2,Joao Lima,,Sao paulo,joao@gmail.com,M
+3,Marcos Silva,35,Rio de Janeiro,marcos@,M
+4,Julia Castro,23,,julia@gmail,F
+5,Pedro Alves,41,Belo Horizonte,pedro@gmail.com,M
+6,Ana Souza,28,Belo Horizonte,ana@email,F,duplicado
+7,Carla Mendes,32,Rio de janeiro,carla@,F
+8,Lucas Pereira,29,Belo Horiznte,lucas@gmail.com,M
+9,Marina Costa,47,Sao Paulo,marina@gmail,F
+10,Paula Dias,,Belo Horizonte,paula@gmail,F
+11,Ricardo Gomes,30,Rio de Janeiro,ricardo@,M
+12,Joao Lima,35,São Paulo,joao@gmail.com,M,duplicado
+13,Julia Castro,23,Belo Horizonte,julia@gmail.com,F
+14,Marcos Silva,33,Rio de janeiro,marcos@gmail.com,M
+15,Carla Mendes,32,Rio de Janeiro,carla@gmail.com,F
